@@ -13,7 +13,7 @@
 
 - 📫 Puedes contactarme [![Mail](https://img.shields.io/badge/alonsofdez23-Mail-red)](mailto:alonsobs23@gmail.com)  
   
-- 📄 Conoce mi experiencia [CV](CV)
+- 📄 Conoce mi experiencia [CV](alonsofdez_cv.pdf)
 
 <br/>
 
