@@ -1,10 +1,6 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<h1 align="center">Hola 👋, Soy Alonso</h1>
+<h3 align="center">desarrollador web 👨‍💻 picando código desde 2019 🚀</h3>
 
-### <div align="center">Soy Alonso, desarrollador web 👨‍💻 picando código desde 2019 🚀</div>  
-  
 
 - 📇 Tengo experiencia en Laravel, PHP, AlpineJS, Git, GitHub entre otras.  
   
@@ -15,11 +11,24 @@
 - ⚡ Mi tiempo libre lo paso haciendo deporte o consumiendo buen cine.  
   
 
-- 📫 Como contactarme: [![Linkedin Badge](https://img.shields.io/badge/alonsofdez23-Mail-red)](https://www.linkedin.com/in/alonsofdez23/)  
+- 📫 Puedes contactarme [![Mail](https://img.shields.io/badge/alonsofdez23-Mail-red)](mailto:alonsobs23@gmail.com)  
   
+- 📄 Conoce mi experiencia [CV](CV)
 
-<br/>  
+<br/>
 
+## Conecta conmigo  
+<div align="center">
+<a href="https://github.com/alonsofdez23" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/alonsofdez23" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+<a href="https://twitter.com/Kr0n0s" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+</div>
 
 ## Stack de tecnologías  
 <table><tr><td valign="top" width="33%">
@@ -64,19 +73,3 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-
-## Conecta conmigo  
-<div align="center">
-<a href="https://github.com/alonsofdez23" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Kr0n0s" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/alonsofdez23" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>
