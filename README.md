@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Alonso</h1>
+<h1 align="center">Hola 👋, soy Alonso</h1>
 <h3 align="center">desarrollador web 👨‍💻 picando código desde 2019 🚀</h3>
 
 
